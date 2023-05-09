@@ -1,0 +1,6 @@
+1)Temperature sensor
+2)Smog sensor
+3)Proximity sensor
+4)Gyro sensor
+5)Energy meter
+6)Fuel level
